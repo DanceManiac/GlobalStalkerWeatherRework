@@ -1,0 +1,1 @@
+@start bin\AdvancedXRay.exe -lua_dbg
